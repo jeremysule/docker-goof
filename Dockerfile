@@ -1,3 +1,3 @@
-FROM node:10.4.0
+FROM node:lts
 
 RUN apt-get install -y imagemagick
